@@ -8,13 +8,21 @@
     font-family: 'Lato', sans-serif;
 }
 
-body{
-    
-}
 
 nav a:hover{
     color: red;
     border: 1px solid red;
     padding: 3px;
     border-radius: 10%;
+}
+
+.hov a:hover{
+    opacity: 50%;
+}
+
+textarea:hover{
+    border: 1px solid red;
+}
+input:hover{
+    border: 1px solid red;
 }

@@ -1,0 +1,17 @@
+.bebas_neue{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.cookie{
+    font-family: 'Cookie', sans-serif;
+}
+.lato{
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    
+}
+
+nav a:hover{
+    color: red;
+}
